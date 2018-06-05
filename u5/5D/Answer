@@ -1,0 +1,5 @@
+Lämpligaste katalogen för mitt system är /usr/local/bin
+Jag kör med Arch Linux och man kan se detta genom att öppna terminalfönstret och skriva in
+"$ printenv"
+Då listas alla miljövariablar.
+Man letar fram PATH och där ser man som första inlägget /usr/local/bin
